@@ -1,0 +1,8 @@
+dao\GitHubDAO.class
+domain\Repositorio.class
+io\programe\fabricadeprogramadores\resources\ProgramadorResources.class
+dao\RepositorioDAO.class
+domain\GitHub.class
+domain\Programador.class
+io\programe\fabricadeprogramadores\JakartaRestConfiguration.class
+dao\ProgramadorDAO.class
